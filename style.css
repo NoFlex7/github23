@@ -1,0 +1,51 @@
+.dav{
+text-align: center;
+position: relative;
+width: 1400px;
+height: 900px;
+
+background: #2A5D5A;
+
+}
+.dov{
+
+box-sizing: border-box; 
+
+position: absolute;
+width: 1000px;
+height: 638px;
+left: 220px;
+top: 193px;
+
+background: #000000;
+border: 10px solid #FF0606;
+
+}
+.dog{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 890px;
+    height: 250px;
+    left: 38px;
+    top: 35px;
+    font-size: 38px;
+    background: #1FE8B7;
+}
+.cat{
+   
+
+position: absolute;
+width: 890px;
+height: 259px;
+left: 38px;
+top: 295px;
+font-size: 38px;
+background: #1FE8B7;
+
+}
+.spun{
+    background-color: black;
+    color: azure;
+    font-size: 70px;
+}
